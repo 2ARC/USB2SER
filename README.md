@@ -7,7 +7,7 @@ It is possible to use an external 5V power source (J2 pin 10) to further protect
 
 Local gerber 3D view at https://www.zofzpcb.com/
 
-Online gerber 3d view at https://easyeda.com/
+Online gerber 3D view at https://easyeda.com/
 
 Boards were manufactured at https://jlcpcb.com/ with smt service except for USB and PTH connectors 
 
